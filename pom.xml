@@ -29,7 +29,7 @@
         <spring.version>5.0.13.RELEASE</spring.version>
         <spring-boot.version>2.0.9.RELEASE</spring-boot.version>
         <spring-data.version>2.0.14.RELEASE</spring-data.version>
-        <h2.version>1.4.190</h2.version>
+        <h2.version>2.1.210</h2.version>
         <junit.version>4.12</junit.version>
         <junit-jupiter.version>5.5.2</junit-jupiter.version>
         <junit-vintage.version>${junit.version}.2</junit-vintage.version>
@@ -44,7 +44,7 @@
         <guice.version>4.0</guice.version>
         <mongo-java-driver.version>3.12.1</mongo-java-driver.version>
         <slf4j.version>1.7.30</slf4j.version>
-        <logback.version>1.2.3</logback.version>
+        <logback.version>1.2.13</logback.version>
         <aws-lambda-core.version>1.1.0</aws-lambda-core.version>
         <aws-java-sdk-dynamodb.version>1.11.289</aws-java-sdk-dynamodb.version>
         <aws-lambda-java-events.version>2.0.1</aws-lambda-java-events.version>
